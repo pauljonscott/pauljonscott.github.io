@@ -127,7 +127,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #2196F3;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -136,13 +136,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #2196F3;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #2196F3;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-toggle {
@@ -185,7 +185,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #2196F3;
   color: white;
 }
 @media (max-width: 767px) {
@@ -511,7 +511,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #18BC9C;
+  background: #2196F3;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
