@@ -81,6 +81,7 @@ header img {
 header .intro-text .name {
   display: block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: none;
   font-weight: 500;
   font-size: 2em;
 }
@@ -103,6 +104,7 @@ header .intro-text .skills {
 .navbar-custom {
   background: #2C3E50;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: none;
   font-weight: 500;
   border: none;
 }
