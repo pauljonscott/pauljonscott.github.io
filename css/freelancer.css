@@ -470,7 +470,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .close-modal .lr {
   height: 75px;
-  width: 1px;
+  width: 2px;
   margin-left: 35px;
   background-color: #1565C0;
   transform: rotate(45deg);
@@ -482,7 +482,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
-  width: 1px;
+  width: 2px;
   background-color: #1565C0;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
