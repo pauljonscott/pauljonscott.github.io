@@ -472,7 +472,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 4px;
   margin-left: 35px;
-  background-color: #687490;
+  background-color: #C5C9CE;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -483,7 +483,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 4px;
-  background-color: #687490;
+  background-color: #C5C9CE;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
