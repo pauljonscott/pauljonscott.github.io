@@ -35,7 +35,7 @@ hr.star-light,
 hr.star-primary {
   padding: 0;
   border: none;
-  border-top: solid 5px;
+  border-top: solid 2px;
   text-align: center;
   max-width: 250px;
   margin: 25px auto 30px;
@@ -470,7 +470,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .close-modal .lr {
   height: 75px;
-  width: 2px;
+  width: 4px;
   margin-left: 35px;
   background-color: #1565C0;
   transform: rotate(45deg);
@@ -482,7 +482,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
-  width: 2px;
+  width: 4px;
   background-color: #1565C0;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
