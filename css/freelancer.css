@@ -58,11 +58,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #1565C0;
+  border-color: #687490;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #1565C0;
+  color: #687490;
 }
 .img-centered {
   margin: 0 auto;
@@ -302,7 +302,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #1565C0;
+  background-color: #687490;
 }
 footer .footer-col {
   margin-bottom: 50px;
@@ -472,7 +472,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 4px;
   margin-left: 35px;
-  background-color: #1565C0;
+  background-color: #687490;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -483,7 +483,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 4px;
-  background-color: #1565C0;
+  background-color: #687490;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
