@@ -47,6 +47,11 @@
     <![endif]-->
 
 </head>
+    
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+});
 
 <body id="page-top" class="index">
 <div id="skipnav"><a href="#maincontent">Skip to main content</a></div>
@@ -478,7 +483,7 @@
                         <div class="modal-body">
                             <h2>Bank UI Conceptual Redesign</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/asb-redesign.png" class="img-responsive img-centered" alt="Bank UI Redesign">
+                            <img src="img/portfolio/asb-redesign.png" class="img-responsive img-centered" data-toggle="lightbox" alt="Bank UI Redesign">
                             <img src="img/portfolio/asb-redesign-1.png" class="img-responsive img-centered" alt="Before">
                             <img src="img/portfolio/asb-redesign-2.png" class="img-responsive img-centered" alt="Dashboard Redesign">
                             <img src="img/portfolio/asb-redesign-3.png" class="img-responsive img-centered" alt="Accounts Redesign">
