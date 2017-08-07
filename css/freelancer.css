@@ -452,6 +452,7 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
+  border: 1px solid lightgrey;
 }
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
