@@ -241,6 +241,50 @@ section.success {
 #portfolio * {
   z-index: 2;
 }
+#process .portfolio-item {
+  margin: 0 0 15px;
+  right: 0;
+}
+#process .portfolio-item .portfolio-link {
+  display: block;
+  position: relative;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: -2px 2px 6px 0px rgba(0,0,0,0.12);
+}
+#process .portfolio-item .portfolio-link .caption {
+  background: rgba(24, 188, 156, 0.9);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: all ease 0.5s;
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+}
+#process .portfolio-item .portfolio-link .caption:hover {
+  opacity: 1;
+}
+#process .portfolio-item .portfolio-link .caption .caption-content {
+  position: absolute;
+  width: 100%;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+  top: 50%;
+  margin-top: -12px;
+  color: white;
+}
+#process .portfolio-item .portfolio-link .caption .caption-content i {
+  margin-top: -12px;
+}
+#process .portfolio-item .portfolio-link .caption .caption-content h3,
+#process .portfolio-item .portfolio-link .caption .caption-content h4 {
+  margin: 0;
+}
+#process * {
+  z-index: 2;
+}
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
