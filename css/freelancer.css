@@ -515,8 +515,8 @@ fieldset[disabled] .btn-success.active {
   opacity: 0.3;
 }
 .portfolio-modal .close-modal .lr {
-  height: 75px;
-  width: 4px;
+  height: 35px;
+  width: 3px;
   margin-left: 35px;
   background-color: #C5C9CE;
   transform: rotate(45deg);
@@ -527,8 +527,8 @@ fieldset[disabled] .btn-success.active {
   z-index: 1051;
 }
 .portfolio-modal .close-modal .lr .rl {
-  height: 75px;
-  width: 4px;
+  height: 35px;
+  width: 3px;
   background-color: #C5C9CE;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
