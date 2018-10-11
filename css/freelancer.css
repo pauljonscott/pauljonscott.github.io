@@ -356,6 +356,9 @@ footer .footer-below {
   padding: 25px 0;
   background-color: #233140;
 }
+.btn {
+  padding: 20px 52px;
+}
 .btn-outline {
   color: white;
   font-size: 20px;
