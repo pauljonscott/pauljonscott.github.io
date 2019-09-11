@@ -54,7 +54,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #2196F3;
+  background-color: #d85a1d;
   color: white;
 }
 hr.star-primary {
@@ -127,7 +127,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #2196F3;
+  color: #d85a1d;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -136,13 +136,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #2196F3;
+  background: #d85a1d;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #2196F3;
+  background: #d85a1d;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-toggle {
@@ -153,9 +153,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #2196F3;
+  background-color: #d85a1d;
   color: white;
-  border-color: #2196F3;
+  border-color: #d85a1d;
   transition: 0.5s ease;
 }
 @media (min-width: 768px) {
@@ -186,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #2196F3;
+  background: #d85a1d;
   color: white;
 }
 @media (max-width: 767px) {
@@ -334,7 +334,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #2196F3;
+  color: #d85a1d;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -371,7 +371,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #2196F3;
+  color: #d85a1d;
   background: white;
   border: solid 2px white;
 }
@@ -419,8 +419,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #2196F3;
-  border-color: #2196F3;
+  background-color: #d85a1d;
+  border-color: #d85a1d;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -452,11 +452,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #2196F3;
-  border-color: #2196F3;
+  background-color: #d85a1d;
+  border-color: #d85a1d;
 }
 .btn-success .badge {
-  color: #2196F3;
+  color: #d85a1d;
   background-color: white;
 }
 .btn-social {
@@ -561,7 +561,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #2196F3;
+  background: #d85a1d;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
