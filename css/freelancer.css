@@ -118,6 +118,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-brand {
   color: black;
+  padding: 0;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
