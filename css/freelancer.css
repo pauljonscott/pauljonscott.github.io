@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Merriweather', serif;
   overflow-x: hidden;
   text-transform: none;
 }
@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Merriweather", serif;
   text-transform: none;
   font-weight: 500;
 }
@@ -82,7 +82,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Merriweather", serif;
   text-transform: none;
   font-weight: 500;
   font-size: 2em;
@@ -105,7 +105,7 @@ header .intro-text .skills {
 }
 .navbar-custom {
   background: #fff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Merriweather", serif;
   text-transform: none;
   font-weight: 500;
   border: none;
