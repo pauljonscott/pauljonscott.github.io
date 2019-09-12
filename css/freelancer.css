@@ -1,6 +1,5 @@
 /*!
- * Portfolio for Paul Jon Scott - Senior UX Designer
- * Copyright 2013-2016 Start Bootstrap
+ * Portfolio for Paul Jon Scott - Author
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -68,7 +67,7 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
-  text-align: center;
+  text-align: left;
   background: #898989;
   color: white;
 }
@@ -186,8 +185,8 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #4a423f;
-  color: white;
+  background: #white;
+  color: black;
 }
 @media (max-width: 767px) {
   section {
