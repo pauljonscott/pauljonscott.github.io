@@ -104,27 +104,27 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #7a1203;
+  background: #fff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: none;
   font-weight: 500;
   border: none;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: white;
+  color: black;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-nav li a:hover {
   color: #d85a1d;
@@ -132,11 +132,11 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-nav li.active a {
-  color: white;
-  background: #d85a1d;
+  color: black;
+  background: #fff;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
@@ -146,15 +146,15 @@ header .intro-text .skills {
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-toggle {
-  color: white;
+  color: black;
   font-size: 10px;
-  border-color: white;
+  border-color: black;
   border: none;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #d85a1d;
-  color: white;
+  background-color: #white;
+  color: black;
   border-color: #d85a1d;
   transition: 0.5s ease;
 }
