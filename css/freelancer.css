@@ -126,7 +126,7 @@ header .intro-text .skills {
   color: black;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #d85a1d;
+  color: black;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -141,7 +141,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: black;
-  background: #white;
+  background: #f7f7f7;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-toggle {
@@ -152,9 +152,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #white;
+  background-color: #f7f7f7;
   color: black;
-  border-color: #black;
+  border-color: #f7f7f7;
   transition: 0.5s ease;
 }
 @media (min-width: 768px) {
