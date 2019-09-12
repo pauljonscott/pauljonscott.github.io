@@ -141,8 +141,8 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
-  color: white;
-  background: #d85a1d;
+  color: black;
+  background: #white;
   transition: 0.5s ease;
 }
 .navbar-custom .navbar-toggle {
@@ -155,7 +155,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-toggle:focus {
   background-color: #white;
   color: black;
-  border-color: #d85a1d;
+  border-color: #black;
   transition: 0.5s ease;
 }
 @media (min-width: 768px) {
