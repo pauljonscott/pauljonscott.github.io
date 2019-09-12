@@ -428,8 +428,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: #f7f7f7;
-  border-color: #f7f7f7;
+  background-color: #404040;
+  border-color: #404040;
 }
 .btn-success:active,
 .btn-success.active,
