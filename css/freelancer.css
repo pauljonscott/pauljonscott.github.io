@@ -110,7 +110,7 @@ header .intro-text .skills {
 }
 .navbar-custom {
   background-color: #ffffff;
-  background-image: url("https://www.transparenttextures.com/patterns/binding-light.png");
+  background-image: url('/img/binding-light.png');
   font-family: "Merriweather", serif;
   text-transform: none;
   font-weight: 500;
